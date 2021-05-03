@@ -1,0 +1,25 @@
+.main
+{
+    margin-top: 100px;
+}
+
+#projects-title
+{
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.projects
+{
+    margin: 0 auto;
+    position: relative;
+    display: flex;
+    -webkit-box-align: center;
+    flex-direction: column;
+}
+
+.project
+{
+    margin-top: 5px;
+    width: 400px;
+}
